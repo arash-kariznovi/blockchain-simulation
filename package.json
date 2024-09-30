@@ -1,0 +1,14 @@
+{
+  "name": "simple-pow-blockchain",
+  "version": "1.0.0",
+  "description": "simple simulation of a blockchain network that is Proof of Work based.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arash",
+  "license": "MIT",
+  "dependencies": {
+    "crypto-js": "^4.2.0"
+  }
+}
